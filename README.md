@@ -62,9 +62,3 @@ The project uses a pre-trained hand landmark detection model and rule-based gest
 - Currently supports three predefined gestures.
 - Detection depends on lighting and camera positioning.
 - Gesture recognition works best with the palm facing the camera.
-
-## Author
-
-Ajay Raj and Jayagandhan  
-Class X-A  
-Academic Year 2026–27
